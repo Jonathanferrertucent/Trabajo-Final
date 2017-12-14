@@ -1,0 +1,69 @@
+[
+    {
+    "Pregunta": "¿De noche, a más de 40 kilómetros por hora, ¿está obligado a llevar encendida la luz de largo alcance en su vehículo?", 
+    "RespA":"Sí, tanto fuera como dentro de poblado y siempre que no esté obligado a utilizar la de cruce.",
+    "RespB": "Sí, pero únicamente en travesías y vías fuera de poblado.",
+    "RespC":"Fuera de poblado, sí; dentro de poblado, no, porque está prohibido.",
+    "RespAcertada":"A",
+    "Img" : "Imagenes/luz-larga1.jpg"
+     },
+    
+
+    { 
+    "Pregunta":"¿Qué significa esta señal?",
+    "RespA":"Recuerda que encendamos las luces de corto alcance.",
+    "RespB":"Obliga a encender alguna luz.",
+    "RespC":"Obliga a encender la luz de corto alcance, como mínimo.",
+    "RespAcertada":"C",
+    "Img" : "Imagenes/CortoAlcance.jpg"
+     },
+    {
+    "Pregunta":"Si por causa de avería su turismo queda inmovilizado en una autopista, ¿puede ser remolcado por otro turismo",
+    "RespA":"Fuera como dentro de poblado y siempre que no esté obligado a utilizar la de cruce.",
+    "RespB":"En travesías y vías fuera de poblado.",
+    "RespC":"Dentro de poblado, no, porque está prohibido.",       
+    "RespAcertada":"C",
+    "Img" : "Imagenes/Avería.jpg"
+    
+     },
+     
+     {
+     "Pregunta": "¿Qué le indica esta señal?",
+     "RespA":"Principio de autovía.",
+     "RespB":"Principio de autopista o autovía.",
+     "RespC":"Principio de autopista.",
+     "RespAcertada":"C",
+     "Img" : "Imagenes/SeñalAutopista.jpg"
+     },
+     
+     {
+     "Pregunta": "¿Es recomendable mantener la velocidad indicada por la señal aunque las condiciones de la vía y la circulación sean favorables?",
+     "RespA":"Sí.",
+     "RespB":"No, si las condiciones son favorables la recomendación no es aplicable..",
+     "RespC":"Depende de cada conductor.",
+     "RespAcertada":"A",
+     "Img" : "Imagenes/Señal4.jpg"
+     },
+     
+    {
+     "Pregunta": "¿Qué significa esta señal?",
+     "RespA":"Prohibido estacionar por vado.",
+     "RespB":"Estacionamiento limitado en tiempo..",
+     "RespC":"Estacionamiento prohibido.",
+     "RespAcertada":"A",
+     "Img" : "Imagenes/Señal5.jpg"
+     },
+     
+     {
+     "Pregunta": "Si usted es listo sabra que es esta señal",
+     "RespA":"Calzada de 2 carriles con bifurcación hacia la izquierda.",
+     "RespB":"Calzada de 3 carriles con bifurcación hacia la izquierda.",
+     "RespC":"Creo que me ha subestimado.",
+     "RespAcertada":"B",
+     "Img" : "Imagenes/Bifulcación.jpg"
+     }
+]
+
+
+
+    
