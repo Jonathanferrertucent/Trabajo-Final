@@ -1,0 +1,61 @@
+
+body {
+    background-color: aliceblue;
+}  
+    
+.radio .cr {
+    
+   
+    border: 1px solid #a9a9a9;
+    width: 1.3em;
+    height: 1.3em;
+    margin-right: .5em;
+}
+.radio .cr {
+    border-radius: 50%;
+}
+.radio label input[type="radio"] {
+    display: none;
+}
+.radio label input[type="radio"] + .cr > .cr-icon {
+    transform: scale(3) rotateZ(-20deg);
+    opacity: 0;
+    transition: all .3s ease-in;
+}
+.radio label input[type="radio"]:checked + .cr > .cr-icon {
+    transform: scale(1) rotateZ(0deg);
+    opacity: 1;
+}
+    
+    p {
+        font-size: 19px;
+        font-family: 'Raleway', sans-serif;
+    }
+
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    .row.content {height: 450px}
+    
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
+	
